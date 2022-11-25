@@ -757,7 +757,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .section-chocolat {
   position: relative;
-  background: url(../img/intersection-bg.png) no-repeat center;
+  background: url(../img/intersection-bg.jpg) no-repeat center;
   background-size: auto 100%;
   z-index: 0;
 }
@@ -884,7 +884,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .section-faq {
   counter-reset: section;
-  background: url(../img/interviewsetion-bg.png) no-repeat left center;
+  background: url(../img/interviewsetion-bg.jpg) no-repeat left center;
   background-size: cover;
   padding-top: 2.0vw;
   padding-bottom: 8.6vw;
@@ -1522,7 +1522,7 @@ footer#footer {
 }
 .main-section {
   width: 100%;
-  background: url(../img/main-bacground.png) no-repeat top left -20vw;
+  background: url(../img/main-bacground.jpg) no-repeat top left -20vw;
   background-size: cover;
   overflow-x: hidden;
   overflow-y: hidden;
